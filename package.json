@@ -1,0 +1,8 @@
+{
+  "name": "dating-ai-analyzer",
+  "private": true,
+  "scripts": {
+    "build": "echo build",
+    "start": "node server.js"
+  }
+}
